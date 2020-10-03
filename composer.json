@@ -1,0 +1,14 @@
+{
+    "name": "ramphor/advanced-elementor-controls",
+    "description": "Subtree split of Jankx theme framework integration (see jankx/core)",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ramphor Premium",
+            "email": "puleeno@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
